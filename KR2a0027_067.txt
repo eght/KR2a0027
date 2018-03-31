@@ -1,0 +1,29 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 新唐書
+#+DATE: 2018-03-31 09:03:22.459697
+#+PROPERTY: ID KR2a0027
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷六十七
+<pb:KR2a0027_WYG_067-1a>¶
+欽定四庫全書¶
+　唐書卷六十七¶
+宋　翰　林　學　士　歐　陽　修　撰¶
+¶
+　表第七¶
+¶
+方鎮表¶
+¶
+　¶
+　¶
+<pb:KR2a0027_WYG_067-1b>¶
+<pb:KR2a0027_WYG_067-2a>¶
+　¶
+　唐書卷六十七¶
+<pb:KR2a0027_WYG_067-2b>¶
+<pb:KR2a0027_WYG_067-3a>¶
+　唐書卷六十七考證¶
+方鎮表四乾元二年以䕫峡忠歸萬五州𨽻䕫州○沈¶
+　炳震曰疑當作𨽻澧州¶
+　唐書卷六十七考證¶
+<pb:KR2a0027_WYG_067-3b>¶
